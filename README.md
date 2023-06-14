@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YvettePWc
+- 👋 Hi, I’m @YvettePW
 - 👀 I’m interested in front end and back end software development.
 - 🌱 I’m currently learning JavaScript at MIT xPro.
 - 💞️ I’m looking to collaborate on a well-rounded selection of challenging projects that develop my portfolio.
