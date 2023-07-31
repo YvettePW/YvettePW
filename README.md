@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YvettePW
-- 👀 I’m interested in front end and back end software development.
+- 👀 I’m interested in full stack software development.
 - 🌱 I’m currently learning JavaScript at MIT xPro.
 - 💞️ I’m looking to collaborate on a well-rounded selection of challenging projects that develop my portfolio.
 - The shapes.html project exhibits my knowledge in manipulating and layering shapes. It shows that I can control the layering, coloring and centering of circles. This skill is useful in web page design.
